@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 130" role="img" aria-label="Poggio Open Cup">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f46ff"/><stop offset="1" stop-color="#0b1b6b"/>
+    </linearGradient>
+  </defs>
+  <path d="M60 4 112 22v44c0 30-22 50-52 60C30 116 8 96 8 66V22z" fill="url(#g)" stroke="#35c3f3" stroke-width="4"/>
+  <circle cx="60" cy="52" r="20" fill="#fff"/>
+  <path d="m60 38 9 6.500-3.500 10.500h-11L51 44.500z" fill="#0b1b6b"/>
+  <text x="60" y="92" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="11" fill="#fff" letter-spacing=".5">POGGIO</text>
+  <text x="60" y="104" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="8" fill="#35c3f3" letter-spacing="1">OPEN CUP</text>
+</svg>
